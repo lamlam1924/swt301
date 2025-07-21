@@ -1,0 +1,7 @@
+firstName,lastName,email,gender,mobile,dateOfBirth,address,isValid
+,,invalidemail,male,12345,01 Jan 2000,,false
+John,Doe,john.doe@example.com,male,1234567890,21 Jul 2000,123 Elm St,true
+A@,#Doe,name@,other,abcd,30 Feb 2020,Somewhere,false
+Jane,Smith,jane.smith@gmail.com,female,0987654321,15 Aug 1999,456 Oak Rd,true
+ , ,
+,,
